@@ -20,10 +20,10 @@ Configurar hooks com Husky para garantir a qualidade do código antes do commit 
 ## Evidências
 
 ### ✅ Execução do `pre-commit`
-![Pre-commit](./screenshots/pre-commit.png)
+![Pre-commit](./imagens/pre-commit.png)
 
 ### ✅ Execução do `pre-push`
-![Pre-push](./screenshots/pre-push.png)
+![Pre-push](./imagens/pre-push.png)
 
 ## Conclusão
 O Husky foi configurado corretamente e os hooks estão funcionando conforme esperado. Todos os commits seguem a convenção semântica.
